@@ -4,3 +4,6 @@
 [submodule "content/themes/pebble"]
 	path = content/themes/pebble
 	url = git@github.com:Granitech/Pebble.git
+[submodule "content/plugins/aio-events"]
+	path = content/plugins/aio-events
+	url = git@github.com:wp-plugins/all-in-one-event-calendar.git
