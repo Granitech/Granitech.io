@@ -7,3 +7,6 @@
 [submodule "content/plugins/aio-events"]
 	path = content/plugins/aio-events
 	url = git@github.com:wp-plugins/all-in-one-event-calendar.git
+[submodule "content/plugins/the-ec"]
+	path = content/plugins/the-ec
+	url = git@github.com:wp-plugins/the-events-calendar.git
