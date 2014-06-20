@@ -1,6 +1,6 @@
 [submodule "wp"]
 	path = wp
 	url = git://github.com/WordPress/WordPress.git
-[submodule "Pebble"]
-	path = Pebble
+[submodule "content/themes/pebble"]
+	path = content/themes/pebble
 	url = git@github.com:Granitech/Pebble.git
