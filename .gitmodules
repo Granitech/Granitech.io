@@ -7,3 +7,6 @@
 [submodule "content/plugins/aio-events"]
 	path = content/plugins/aio-events
 	url = git@github.com:wp-plugins/all-in-one-event-calendar.git
+[submodule "content/plugins/ninja-forms"]
+	path = content/plugins/ninja-forms
+	url = git@github.com:wp-plugins/ninja-forms.git
