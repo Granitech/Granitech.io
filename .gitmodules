@@ -4,9 +4,15 @@
 [submodule "content/themes/pebble"]
 	path = content/themes/pebble
 	url = git@github.com:Granitech/Pebble.git
-[submodule "content/plugins/aio-events"]
-	path = content/plugins/aio-events
-	url = git@github.com:wp-plugins/all-in-one-event-calendar.git
 [submodule "content/plugins/ninja-forms"]
 	path = content/plugins/ninja-forms
 	url = git@github.com:wp-plugins/ninja-forms.git
+[submodule "content/plugins/wordpress-seo"]
+	path = content/plugins/wordpress-seo
+	url = git@github.com:wp-plugins/wordpress-seo.git
+[submodule "content/plugins/ga-for-wp"]
+	path = content/plugins/ga-for-wp
+	url = git@github.com:wp-plugins/google-analytics-for-wordpress.git
+[submodule "content/plugins/the-ec"]
+	path = content/plugins/the-ec
+	url = git@github.com:wp-plugins/the-events-calendar.git
