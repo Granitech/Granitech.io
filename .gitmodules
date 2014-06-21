@@ -13,3 +13,6 @@
 [submodule "content/plugins/ga-for-wp"]
 	path = content/plugins/ga-for-wp
 	url = git@github.com:wp-plugins/google-analytics-for-wordpress.git
+[submodule "content/plugins/the-events-calendar"]
+	path = content/plugins/the-events-calendar
+	url = git@github.com:wp-plugins/the-events-calendar.git
