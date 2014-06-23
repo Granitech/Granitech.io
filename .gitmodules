@@ -19,3 +19,6 @@
 [submodule "content/plugins/gf-mailchimp"]
 	path = content/plugins/gf-mailchimp
 	url = git@github.com:gravityforms/gravityformsmailchimp.git
+[submodule "content/plugins/the-events-calendar"]
+	path = content/plugins/the-events-calendar
+	url = git@github.com:moderntribe/the-events-calendar.git
