@@ -16,3 +16,6 @@
 [submodule "content/plugins/the-events-calendar"]
 	path = content/plugins/the-events-calendar
 	url = git@github.com:wp-plugins/the-events-calendar.git
+[submodule "content/plugins/gravityforms"]
+	path = content/plugins/gravityforms
+	url = git@github.com:gravityforms/gravityforms.git
