@@ -3,4 +3,6 @@
 /sql-dump-*.sql
 /db-sync
 /content/upgrade/
+vvv-init.sh
+vvv-nginx.conf
 .DS_Store
