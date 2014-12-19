@@ -25,3 +25,6 @@
 [submodule "content/plugins/gravity-forms-stripe"]
 	path = content/plugins/gravity-forms-stripe
 	url = https://github.com/naomicbush/gravity-forms-stripe
+[submodule "content/plugins/wp-front-end-editor"]
+	path = content/plugins/wp-front-end-editor
+	url = git@github.com:avryl/wp-front-end-editor.git
